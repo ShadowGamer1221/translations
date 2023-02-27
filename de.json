@@ -26,34 +26,34 @@
         "team-full": "Dieses Team ist derzeit voll oder unausgeglichen. Wähle stattdessen ein anderes Team!",
         "error": "Error",
         "transport": "Transport",
-        "transport-air": "air transport",
-        "taking-transport": "using transport",
-        "team-revive": "Team Wiederbelebung",
+        "transport-air": "Lufttransport",
+        "taking-transport": "Transportmittel nutzen",
+        "team-revive": "Wiederbeleben des Teams",
         "healing": "Heilung",
-        "restocking": "Munition auffüllen",
+        "restocking": "Munition nachfüllen",
         "team-healer": "Teamheiler/in",
         "team-supply": "Teamversorgung"
     },
     "abilities": {
-        "revive-toast": "ZUM WIEDERBELEBEN E DRÜCKEN"
+        "revive-toast": "DRÜCKE ZUM WIEDERBELEBEN E"
     },
     "rewards": {
-        "defending-obj": "das Ziel verteidigen!",
-        "attacking-obj": "Das Ziel angreifen!",
+        "defending-obj": "Verteidigung des Ziels!",
+        "attacking-obj": "Angriff auf das Ziel!",
         "playing": "Spielt das Spiel!"
     },
     "announcements": {
-        "announce1": "Du kannst unserem Discord beitreten, um zu unterstützen, coole Vergünstigungen und Memes zu erhalten! https://cosmicv.net/koth",
-        "announce2": "Du hast ein Problem mit einem Spieler auf unserem Server? Benutze /report {id} {reason}, damit die Administratoren es überprüfen können!",
-        "announce3": "Sind Sie daran interessiert, die Entwicklung der Community zu unterstützen? Schauen Sie sich unseren Shop an: https://store.cosmicv.net",
-        "announce4": "VIPs und MVPs können Waffenskinns benutzen, diese gestalten und vieles mehr! https://store.cosmicv.net",
-        "announce5": "VIP+ Benutzer können eine Beitritts-/Verlassen Nachricht vom Server aus anpassen! https://store.comsicv.net"
+        "announce1": "Du kannst unserem Discord beitreten, um Support, coole Vorteile und Memes zu genießen! https://cosmicv.net/koth",
+        "announce2": "Du hast ein Problem mit einem Spieler auf unserem Server? Benutze /report {ID} {Grund}, damit das Administrator-Team es überprüfen kann!",
+        "announce3": "Möchtest du die Entwicklung der Community unterstützen? Schau dir unseren Shop an: https://store.cosmicv.net",
+        "announce4": "VIPs und MVPs haben die Möglichkeit, ihre Waffenskins und mehr anzupassen! https://store.cosmicv.net",
+        "announce5": "VIP+ Benutzer können ihre Beitritts- und Abmeldemeldungen vom Server anpassen! https://store.cosmicv.net"
     },
     "cosmetics": {
-        "no-permission-hat": "Sie haben keine Berechtigung, diesen Hut zu benutzen!",
+        "no-permission-hat": "Du hast keine Berechtigung, diesen Hut zu verwenden!",
         "hat-applied": "Hut erfolgreich aktiviert!",
         "hat-removed": "Hut erfolgreich entfernt.",
-        "hat-doesnt-exist": "Es gibt keinen Hut mit diesem Namen!",
+        "hat-doesnt-exist": "Es existiert kein Hut mit diesem Namen!",
         "tag-doesnt-exist": "Das ist kein gültiger Tag! Verwenden Sie (snowflake/rainbow/candy/red/dark_red/light_blue/blue/dark_blue/green/neon_green/dark_green/orange/purple/gray/gold/pink/dark_pink/brown/yellow)",
         "tag-applied": "Chat-Tag erfolgreich auf Ihren Benutzer angewendet!"
     },
